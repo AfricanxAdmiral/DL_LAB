@@ -14,9 +14,9 @@
 ## How to run
 - tpye 'python3 program_name' in directory with program.
   
-  `code...
+  `
     ./2018_07_26> python3 Hanoi...
-  `...
+  `
 
 
 ## Idea of code
