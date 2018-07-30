@@ -1,4 +1,4 @@
-# NCTU-DL_LAB_07_26_Hanoi
+# NCTU-DL_LAB_07_26_Hanoi (Python_Practice)
 
 
 ## Abilites
