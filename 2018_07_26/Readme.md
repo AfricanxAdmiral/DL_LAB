@@ -2,7 +2,7 @@
 
 
 ## Abilites
-- take costomize user input for number of disks.
+- take customize user input for number of disks.
 - print out token step details.
 
 
@@ -21,7 +21,12 @@
 
 ## Idea of code
 - Recursion
+  - Divide whole progress into parts that can be recursivily done.
+  - Part Goal : move the largest piece to C.
 - Non_recursion
+  - Find the pattern.
+  - Odd disk number and even disk number each has its own pattern.
+  - Patterns are discribed in the code.
 
 
 -------------------------------------------------------------------
