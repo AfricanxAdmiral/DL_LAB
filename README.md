@@ -1,3 +1,3 @@
 # DL_LAB
- - Purpuse
+ - Purpuse : 
     these are practice for MAPL Summer trainning.
